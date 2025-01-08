@@ -1,3 +1,5 @@
+![chapel logo](https://camo.githubusercontent.com/0303bd7ea24da77ba57dad211c859db18765331c8d52294e78af8b88eef886ee/68747470733a2f2f63686170656c2d6c616e672e6f72672f696d616765732f63686170656c2d6c6f676f2d3230302e706e67)
+
 This repository contains GPU programming examples using
 [Chapel](https://chapel-lang.org/).
 
