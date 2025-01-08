@@ -12,20 +12,20 @@ writeln(Arr);
 
 // 2d. increment elements by one and print
 startVerboseGpu();
-foreach a in Arr do a += 1;
+forall a in Arr do a += 1;
 stopVerboseGpu();
 writeln(Arr);
 writeln();
 
 // 2e. increment elements by one _on the GPU_ and print
 startVerboseGpu();
-on targetLocale do foreach a in Arr do a += 1;
+on targetLocale do forall a in Arr do a += 1;
 stopVerboseGpu();
 writeln(Arr);
 writeln();
 
 startVerboseGpu();
-on Arr do foreach a in Arr do a += 1;
+on Arr do forall a in Arr do a += 1;
 stopVerboseGpu();
 writeln(Arr);
 writeln();
