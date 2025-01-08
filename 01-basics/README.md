@@ -25,7 +25,7 @@ the `GpuDiagnostics` module to understand the GPU behavior of the application.
 ### Further Reading
 
 - [Introduction to GPU Programming in
-  Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/) blog article
+  Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 - [Locales Primer](https://chapel-lang.org/docs/main/primers/locales.html)
   (includes `on` statement)
 - [`GpuDiagnostics` Module
