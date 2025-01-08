@@ -7,4 +7,5 @@ Furthermore, this example also introduces a very powerful (but orthogonal to GPU
 programming) concept that is unique to Chapel: `config` variables.
 
 ### Further Reading
-- `config` variables
+- [Configs in Variables
+  Primer](https://chapel-lang.org/docs/main/primers/variables.html#configs)

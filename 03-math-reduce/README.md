@@ -8,8 +8,8 @@ reduction will be performed on the GPU. If it is a distributed array, it will be
 executed in a distributed fashion efficiently.
 
 ### Further Reading
-- `forall` intents
-  - `reduce` intents
-- `reduce` expressions
-- Reductions primer
-- `Math` module documentation
+- [Reductions Primer](https://chapel-lang.org/docs/main/primers/reductions.html)
+- [Forall
+  Intents](https://chapel-lang.org/docs/main/language/spec/data-parallelism.html#forall-intents)
+- [`Math` Module
+  Documentation](https://chapel-lang.org/docs/main/modules/standard/Math.html)
